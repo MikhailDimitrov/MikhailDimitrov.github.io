@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'BrunoAce';
-    src: url("fonts\BrunoAce-Regular.ttf");
+    src: url("fonts/BrunoAce-Regular.ttf") format("truetype");
 }
 
 body {
