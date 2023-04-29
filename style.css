@@ -11,8 +11,8 @@ h1, h2, h3, h4, h5, h6, p, a, ul, ol, dl, li {
 body {
     width: 950px;
     margin: 50px auto;
-    background: rgb(10,103,46);
-    background: radial-gradient(circle, rgba(10,103,46,1) 0%, rgba(15,6,46,1) 50%, rgba(15,6,46,1) 100%);
+    background: rgb(15,6,46);
+    background: linear-gradient(90deg, rgba(15,6,46,1) 0%, rgba(10,103,46,1) 50%, rgba(15,6,46,1) 100%);
 }
 
 h1, h2, h3, h4, h5, h6 {
