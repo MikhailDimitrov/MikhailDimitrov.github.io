@@ -5,4 +5,16 @@
 
 body {
     font-family: 'BrunoAce';
+    width: 1200px;
+    margin: 50px auto;
+    background: #1d1160;
+    color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #22D900;
+}
+
+a {
+    color: darkred;
 }
