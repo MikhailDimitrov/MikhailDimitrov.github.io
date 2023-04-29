@@ -5,6 +5,7 @@
 
 h1, h2, h3, h4, h5, h6, p, a, ul, ol, dl, li {
     font-family: 'BrunoAce';
+    color: #fff;
 }
 
 body {
@@ -15,10 +16,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     color: #22D900;
-}
-
-p {
-    color: #fff;
 }
 
 a {
