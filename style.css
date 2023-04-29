@@ -3,16 +3,22 @@
     src: url("fonts/BrunoAce-Regular.ttf") format("truetype");
 }
 
-body {
+h1, h2, h3, h4, h5, h6, p, a {
     font-family: 'BrunoAce';
+}
+
+body {
     width: 950px;
     margin: 50px auto;
     background: #1d1160;
-    color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: #22D900;
+}
+
+p {
+    color: #fff;
 }
 
 a {
