@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BrunoAce';
+    src: url("fonts\BrunoAce-Regular.ttf");
+}
+
+body {
+    font-family: 'BrunoAce';
+}
